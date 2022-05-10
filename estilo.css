@@ -1,0 +1,103 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 900;
+    text-align: center;
+    color: #ddd;
+    position: relative;
+}
+.mesa{
+    background-color: rgb(255, 247, 128);
+    width: 90vmin;
+    height: 90vmin;
+    margin-left: auto;
+    margin-right: auto;   
+    position: relative;
+    color: white;
+}
+.mesa2{
+    height: 90%;
+    width: 90%;
+    background-color: rgb(252, 240, 80);
+    margin-left: 5%;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+.mesa3{
+    height: 94%;
+    width: 94%;
+    background-color: rgb(0, 0, 0);
+    margin-left: 3%;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+.mesa4{
+    height: 97%;
+    width: 97%;
+    background-color: aliceblue;
+    margin-left: 1.5%;
+    position: absolute;
+    top: 50%;
+    transform: translate(0, -50%);
+}
+a{
+    background-color: #ddd;
+    float: left;
+    outline: 0.1em solid rgb(10, 10, 10);
+    outline-offset: -1px;
+    text-decoration: none;
+    height: 11.111%;
+    width: 11.111%;
+}
+a:hover{
+    background-color: rgb(199, 199, 199);
+}
+a:visited{
+    background-color: rgb(243, 243, 243);
+}
+.um {
+    color: #ddd;
+}
+.um:hover{
+    color: rgb(199, 199, 199);
+}
+.um:visited{
+    color: blue;
+}
+.dois{
+    color: #ddd;
+}
+.dois:hover{
+    color: rgb(199, 199, 199);
+}
+.dois:visited{
+    color: darkgreen;
+}
+.tres{
+    color: #ddd;
+}
+.tres:hover{
+    color: rgb(199, 199, 199);
+}
+.tres:visited{
+    color: darkred;
+}
+.quatro{
+    color: #ddd;
+}
+.quatro:hover{
+    color: rgb(199, 199, 199);
+}
+.quatro:visited{
+    color: rgb(77, 0, 128);
+}
+.bomba{
+    color: #ddd;
+} 
+.bomba:hover{
+    color: rgb(199, 199, 199);
+}
+.bomba:visited{
+    color: rgb(3, 3, 3);
+}
